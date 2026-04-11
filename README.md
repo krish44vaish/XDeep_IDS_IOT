@@ -1,4 +1,4 @@
-#Impact of the Project
+# Impact of the Project
 
 This project stands out due to its end-to-end, real-world applicability in AI-driven cybersecurity. It is not just a model-building exercise, but a complete intelligent pipeline designed to address practical challenges in network intrusion detectionCybersecurity threats are increasing rapidly, especially in IoT environments. This project directly tackles the challenge of accurate and reliable network attack detection, helping:
 
