@@ -16,7 +16,7 @@ Real-world cybersecurity datasets are highly skewed and noisy. By integrating SM
 - Reduces noise and false positives
 - Enhances overall model robustness
 
-# eature Optimization
+# Feature Optimization
 
 Using a Genetic Algorithm for feature selection adds significant value:
 
