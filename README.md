@@ -14,7 +14,7 @@ Real-world cybersecurity datasets are highly skewed and noisy. By integrating SM
 - Reduces noise and false positives
 - Enhances overall model robustness
 
-# Intelligent Feature Optimization
+# eature Optimization
 
 Using a Genetic Algorithm for feature selection adds significant value:
 
@@ -26,8 +26,8 @@ Using a Genetic Algorithm for feature selection adds significant value:
 
 The project demonstrates state-of-the-art performance across datasets:
 
-- Decision Tree: 99.36% accuracy & recall (CIC-IoT-23)
-- BiLSTM: 99.53% accuracy & 99.52% recall (NFT-BOT-IoT-23)
+- BiLSTM: 99.36% accuracy & 99.35% recall (CIC-IoT-23)
+- Decision Tree: 99.93% accuracy & 99.52% recall (NFT-BOT-IoT-23)
 
 This highlights the strength of combining:
 
@@ -54,7 +54,7 @@ The project covers the complete lifecycle of AI development:
 
 This makes it highly practical, reproducible, and deployment-ready.
 
-Real-World Readiness
+# Real-World Readiness
 
 By combining:
 - High accuracy
