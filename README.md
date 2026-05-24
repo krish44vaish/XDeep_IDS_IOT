@@ -29,7 +29,7 @@ Using a Genetic Algorithm for feature selection adds significant value:
 The project demonstrates state-of-the-art performance across datasets:
 
 - BiLSTM: 99.36% accuracy & 99.35% recall (CIC-IoT-23)
-- Decision Tree: 99.93% accuracy & 99.52% recall (NFT-BOT-IoT-23)
+- Decision Tree: 99.93% accuracy & 99.52% recall (NF-BOT-IoT)
 
 This highlights the strength of combining:
 
